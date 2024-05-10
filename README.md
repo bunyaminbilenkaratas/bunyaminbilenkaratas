@@ -10,6 +10,15 @@
 
 ###
 
+<p align="left">
+    🚀 Hey there! I'm Bünyamin, a passionate software engineer with expertise in C# and Laravel development.<br>
+    📚 Currently diving deep into the world of C# and Laravel, exploring their intricacies and pushing the boundaries of what's possible.<br>
+    💻 With a knack for crafting elegant solutions, I thrive on building scalable applications and solving complex problems.<br>
+    🌟 Let's connect and collaborate on exciting projects! Feel free to reach out, and let's make some magic with C# and Laravel together!
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
