@@ -1,35 +1,40 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is Bünyamin Bilen Karataş and I'm a computer engineer, from Turkey</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h1 align="left">Hi 👋 I'm Bünyamin</h1>
 
 <p align="left">
-    🚀 Hey there! I'm Bünyamin, a passionate computer engineer with expertise in C# and Laravel development.<br>
-    📚 Currently diving deep into the world of C# and Laravel, exploring their intricacies and pushing the boundaries of what's possible.<br>
-    💻 With a knack for crafting elegant solutions, I thrive on building scalable applications and solving complex problems.<br>
-    🌟 Let's connect and collaborate on exciting projects! Feel free to reach out, and let's make some magic with C# and Laravel together!
+Computer Engineer from Turkey. Primarily a Laravel backend developer, with a keen interest in system programming, binary exploitation, and security research. I enjoy building scalable web applications while exploring software architecture, design patterns, and cloud technologies.
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">About Me</h2>
+
+<p align="left">
+🚀 Focused on developing robust backend systems with Laravel and PHP.<br>
+💻 Curious about system programming, reverse engineering, and binary exploitation.<br>
+🔍 Interested in software architecture, design patterns, and cloud solutions.<br>
+🌟 Engaged in projects that combine web development with deep technical challenges.
+</p>
 
 ###
+
+<h2 align="left">Technologies & Tools</h2>
 
 <div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws logo" />
 </div>
-
-###
